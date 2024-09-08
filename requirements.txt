@@ -1,0 +1,5 @@
+Flask
+nltk
+gunicorn
+joblib
+scikit-learn
